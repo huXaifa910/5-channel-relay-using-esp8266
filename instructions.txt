@@ -1,0 +1,5 @@
+This is a simple code for esp 8266 boards . You can control 5 relays using webserver .Before uploading the code you need to make some changes .
+You have to change wifi ssid and password and also the stactic ip and gateway address and done. upload it to your board . run and enjoy
+This is only for educational purpose not for commercial purposes . IF YOU USE IT YOU HAVE TO PAY FOR IT.
+Also the diagrams are attached here.
+	 
